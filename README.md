@@ -6,7 +6,7 @@ Team Members: **P**eter, **D**on, **F**rank, **M**ike, **H**ailey Stack Overflow
 
 Web application built with Ruby on Rails and hosted on Heroku. Allows DBC students to signup, login, post and answer questions, as well as upvote or downvote answers and questions. This project was built in 3 days by myself and 4 other Dev Bootcamp Students using Test Driven Development.
 
-My main role was to develop the Questions index page and testing using Rspec.
+My main role was to develop the Questions index page and implement testing using Rspec. I also contributed to connecting Answers and refactoring code.
 
 Concept: create a StackOverflow clone
 
