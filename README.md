@@ -2,7 +2,7 @@
 
 [Hosted On Heroku](https://pdfmh-overflow.herokuapp.com/)
 
-Team Members: *P*eter, *D*on, *F*rank, *M*ike, *H*ailey Stack Overflow Project
+Team Members: **P**eter, **D**on, **F**rank, **M**ike, **H**ailey Stack Overflow Project
 
 Web application built with Ruby on Rails and hosted on Heroku. Allows DBC students to signup, login, post and answer questions, as well as upvote or downvote answers and questions. This project was built in 3 days by myself and 4 other Dev Bootcamp Students using Test Driven Development.
 
